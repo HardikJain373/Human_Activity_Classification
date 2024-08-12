@@ -1,7 +1,5 @@
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 #
-#                                   ES335- Machine Learning- Assignment 1
-#
 # This script combines the data from the UCI HAR Dataset into a more usable format.
 # The data is combined into a single csv file for each subject and activity. 
 # The data is then stored in the Combined folder.

@@ -1,7 +1,5 @@
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 #
-#                                   ES335- Machine Learning- Assignment 1
-#
 # This file is used to create the dataset for the mini-project. The dataset is created by reading the data from
 # the Combined folder. The data is then split into training, testing, and validation sets. This split is supposed
 # to be used for all the modeling purposes.
